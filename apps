@@ -1,1 +1,48 @@
 
+<html lang="en">
+
+<body>
+
+ <ul>
+  <li><a href="index.html">home</a></li>
+  <li><a href="app.html">apps</a></li>
+  <li><a href="about.html">About</a></li>
+</ul>
+
+  <img src="tarquinn.png" alt="artifact" width=500>
+</body>
+  
+  <style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+body{
+  background-color:white;}
+{color:black;
+    }
+text-align:center;
+}
+  
+  </style>
+  
+</html>
